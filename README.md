@@ -48,6 +48,7 @@ A data visualization poster presenting statistics on road accidents across Europ
 - Published as a print-ready A1 poster
 
 **Tech stack:** R, ggplot2, dplyr, tidyr
+
 [Poster](https://github.com/kawulska/Data-Visualization-Techniques-in-R/tree/main/Poster)
 ---
 
