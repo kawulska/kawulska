@@ -1,4 +1,4 @@
-# Portfolio – Karolina Kawulska
+# Karolina Kawulska
 
 A collection of projects in **data science**, **machine learning**, and **software development**.
 
