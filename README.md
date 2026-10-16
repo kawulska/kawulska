@@ -8,7 +8,7 @@ A collection of projects in **data science**, **machine learning**, and **softwa
 
 A machine learning project focused on predicting lung cancer diagnosis from clinical patient data. The workflow includes exploratory data analysis, handling missing values, feature engineering, and comparing multiple classification models.
 
-![Python](https://img.shields.io/badge/Python-informational?style=flat) ![scikit-learn](https://img.shields.io/badge/scikit-learn-informational?style=flat) ![pandas](https://img.shields.io/badge/pandas-informational?style=flat) ![Jupyter](https://img.shields.io/badge/Jupyter-informational?style=flat)
+![Python](https://img.shields.io/badge/Python-informational?style=flat) ![scikit-learn](https://img.shields.io/badge/scikit-learn-informational?style=flat)  ![Jupyter](https://img.shields.io/badge/Jupyter-informational?style=flat)
 
 **Key features:**
 - Exploratory Data Analysis (EDA) with visualizations
